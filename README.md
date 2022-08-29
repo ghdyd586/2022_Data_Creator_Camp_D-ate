@@ -5,7 +5,7 @@
 
 ### 방식 : 대면 스터디
 
-### 0. 대회 일정
+## 0. 대회 일정
 
 ![image](https://user-images.githubusercontent.com/101400894/187133929-acc4db5a-cf1d-4386-a114-8fc1631f8983.png)
 
